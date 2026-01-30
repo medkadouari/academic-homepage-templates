@@ -11,7 +11,7 @@
   <b>English</b> | <a href="README_CN.md">中文</a>
 </p>
 
-A collection of beautiful, responsive academic homepage templates for researchers, professors, and PhD students.
+A collection of beautiful, responsive academic homepage templates for researchers and PhD students.
 
 ## Features
 

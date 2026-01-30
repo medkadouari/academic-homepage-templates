@@ -5,14 +5,6 @@ const html = document.documentElement;
 // Load saved theme
 const savedTheme = localStorage.getItem('theme') || 'dark';
 html.setAttribute('data-theme', savedTheme);
-updateThemeLabel();
-
-function updateThemeLabel() {
-    const label = document.querySelector('.theme-label');
-    if (label) {
-        label.textContent = html.getAttribute('data-theme') === 'dark' ? 'Light' : 'Dark';
-    }
-}
 
 if (themeToggle) {
     themeToggle.addEventListener('click', () => {
@@ -20,17 +12,27 @@ if (themeToggle) {
         const next = current === 'dark' ? 'light' : 'dark';
         html.setAttribute('data-theme', next);
         localStorage.setItem('theme', next);
-        updateThemeLabel();
     });
 }
 
-// Smooth scroll for navigation links
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        const target = document.querySelector(this.getAttribute('href'));
-        if (target) {
-            target.scrollIntoView({ behavior: 'smooth' });
-        }
+// SPA Navigation - Section Switching
+const navItems = document.querySelectorAll('.sidebar-nav-item');
+const sections = document.querySelectorAll('.content-section');
+
+navItems.forEach(item => {
+    item.addEventListener('click', () => {
+        const targetSection = item.getAttribute('data-section');
+
+        // Update active nav item
+        navItems.forEach(nav => nav.classList.remove('active'));
+        item.classList.add('active');
+
+        // Update active section
+        sections.forEach(section => {
+            section.classList.remove('active');
+            if (section.id === targetSection) {
+                section.classList.add('active');
+            }
+        });
     });
 });
